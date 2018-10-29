@@ -1,10 +1,10 @@
 # HTMLObject
 
-[![Build Status](http://img.shields.io/travis/Anahkiasenplus/html-object.svg?style=flat)](https://travis-ci.org/Anahkiasenplus/html-object)
-[![Latest Stable Version](http://img.shields.io/packagist/v/anahkiasenplus/html-object.svg?style=flat)](https://packagist.org/packages/anahkiasenplus/html-object)
-[![Total Downloads](http://img.shields.io/packagist/dt/anahkiasenplus/html-object.svg?style=flat)](https://packagist.org/packages/anahkiasenplus/html-object)
-[![Scrutinizer Quality Score](http://img.shields.io/scrutinizer/g/Anahkiasenplus/html-object.svg?style=flat)](https://scrutinizer-ci.com/g/Anahkiasenplus/html-object/)
-[![Code Coverage](http://img.shields.io/scrutinizer/coverage/g/Anahkiasenplus/html-object.svg?style=flat)](https://scrutinizer-ci.com/g/Anahkiasenplus/html-object/)
+[![Build Status](http://img.shields.io/travis/Anahkiasen/html-object.svg?style=flat)](https://travis-ci.org/Anahkiasen/html-object)
+[![Latest Stable Version](http://img.shields.io/packagist/v/anahkiasen/html-object.svg?style=flat)](https://packagist.org/packages/anahkiasen/html-object)
+[![Total Downloads](http://img.shields.io/packagist/dt/anahkiasen/html-object.svg?style=flat)](https://packagist.org/packages/anahkiasen/html-object)
+[![Scrutinizer Quality Score](http://img.shields.io/scrutinizer/g/Anahkiasen/html-object.svg?style=flat)](https://scrutinizer-ci.com/g/Anahkiasen/html-object/)
+[![Code Coverage](http://img.shields.io/scrutinizer/coverage/g/Anahkiasen/html-object.svg?style=flat)](https://scrutinizer-ci.com/g/Anahkiasen/html-object/)
 [![Support via Gittip](http://img.shields.io/gittip/Anahkiasen.svg?style=flat)](https://www.gittip.com/Anahkiasen/)
 
 HTMLObject is a set of classes to create and manipulate HTML objects abstractions.
